@@ -22,3 +22,6 @@ Main Libraries used:
 Pandas for data manipulation, aggregation Matplotlib and Seaborn for visualization and behavior with respect to the target variable NumPy for computationally efficient operations Project Architecture:
 
 ![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/baca9f66-8302-43d8-8a38-41ba0e57b3eb)
+
+![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/34cd96b3-dfe9-4aa3-a403-07ea8843051a)
+
