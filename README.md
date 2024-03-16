@@ -25,3 +25,27 @@ Pandas for data manipulation, aggregation Matplotlib and Seaborn for visualizati
 
 ![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/34cd96b3-dfe9-4aa3-a403-07ea8843051a)
 
+Steps Wise Project Outline:
+
+Steps Wise Project Outline:
+
+360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Understanding the dataset and problem statement.
+
+360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Efficient EDA
+
+360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Dealing with missing values and outliers
+
+360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Cleaning the document
+
+360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Exploring exceptional cases
+
+360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Pre processing- TFIDF/ bag of words
+
+360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Selecting the approach and algorithm to be used.
+
+360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Modeling- use at least 2 algorithms.
+
+360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Brief strategy for clusters formed.
+
+360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Conclusion.
+
