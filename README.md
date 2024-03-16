@@ -27,25 +27,26 @@ Pandas for data manipulation, aggregation Matplotlib and Seaborn for visualizati
 
 Steps Wise Project Outline:
 
-Steps Wise Project Outline:
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Understanding the dataset and problem statement.
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Efficient EDA
+![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/fcb3993c-c1b3-44a4-b8b1-f03840c3142f) Understanding the dataset and problem statement.
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Dealing with missing values and outliers
+![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/cbdd49b3-0e7b-47ae-96bf-9218cdad1cbb) Efficient EDA
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Cleaning the document
+![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/f6af64d2-7065-4b58-8405-f010d6db211c)Dealing with missing values and outliers
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Exploring exceptional cases
+ ![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/6da3e5a2-e38a-4005-b67a-571daa77cbf7)Cleaning the document
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Pre processing- TFIDF/ bag of words
+ ![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/ef5e3e0c-87d6-4853-8373-af897525499f)Exploring exceptional cases
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Selecting the approach and algorithm to be used.
+ ![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/663b1c9d-6ba3-4387-b427-24befda561cc)Pre processing- TFIDF/ bag of words
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Modeling- use at least 2 algorithms.
+ ![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/71b01c72-3622-47a1-adda-68ff76b2c78e)Selecting the approach and algorithm to be used.
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Brief strategy for clusters formed.
+ ![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/4bfdf46a-7f59-43b9-96b7-38c9979ef0a8)Modeling- use at least 2 algorithms.
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Conclusion.
+ ![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/a6849d58-b174-4c9d-a7f7-412452603c58)Brief strategy for clusters formed.
+
+![image](https://github.com/Luckyjaiswal2000/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138009906/1fad26b6-4639-444a-a4ec-84ee88b84fc0)
+Conclusion.
 
